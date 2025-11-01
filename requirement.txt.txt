@@ -1,0 +1,7 @@
+numpy==2.3.4
+pandas==2.3.3
+streamlit
+scikit-learn==1.5.2
+matplotlib
+stastmodels
+pip==24.2
