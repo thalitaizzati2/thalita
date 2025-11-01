@@ -1,0 +1,101 @@
+ID_Kepsek,Nama,Jenis_Kelamin,Usia,Pendidikan_Terakhir,Lama_Mengajar_Tahun,Lama_Menjabat_Tahun,Nama_Sekolah,Tipe_Sekolah,Lokasi,Jumlah_Siswa,Gaya_Kepemimpinan,Tingkat_Kelulusan_Persen,Nilai_UN_RataRata
+1,Dewi Susanto,Perempuan,47,S2,15,4,SMAN 14 Medan,Negeri,Medan,332,Transformasional,92.75,78.98
+2,Indah Nugroho,Laki-laki,57,S1,29,18,SMAN 19 Yogyakarta,Negeri,Yogyakarta,584,Transformasional,98.07,76.81
+3,Rina Putri,Perempuan,50,S2,23,7,SMAN 13 Jakarta,Negeri,Jakarta,899,Transaksional,98.78,78.24
+4,Fajar Laksono,Laki-laki,54,S2,31,13,SMK Swasta Mandiri Pertiwi Medan,Swasta,Medan,402,Transformasional,97.29,84.12
+5,Maya Wulandari,Laki-laki,43,S2,11,15,SMK Swasta Mandiri Karya Bandung,Swasta,Bandung,411,Laissez-faire,99.49,73.83
+6,Budi Siregar,Laki-laki,57,S2,28,6,SMK Swasta Nusantara Pertiwi Surabaya,Swasta,Surabaya,824,Transformasional,93.83,75.33
+7,Siti Laksono,Perempuan,52,S2,21,7,SMK Swasta Nusantara Jaya Bandung,Swasta,Bandung,610,Laissez-faire,95.67,82.9
+8,Fajar Pratama,Laki-laki,57,S2,26,14,SMK Swasta Cahaya Ilmu Surabaya,Swasta,Surabaya,988,Transformasional,98.89,80.34
+9,Agus Hakim,Laki-laki,61,S2,33,3,SMK Swasta Harapan Pertiwi Medan,Swasta,Medan,496,Transformasional,97.44,74.15
+10,Dewi Hakim,Perempuan,60,S2,32,10,SMAN 1 Yogyakarta,Negeri,Yogyakarta,569,Laissez-faire,98.1,78.71
+11,Dewi Rahayu,Perempuan,60,S2,36,7,SMK Swasta Global Pertiwi Bandung,Swasta,Bandung,233,Transaksional,92.16,72.68
+12,Sari Rahayu,Perempuan,47,S1,24,3,SMK Swasta Global Ilmu Jakarta,Swasta,Jakarta,742,Laissez-faire,93.32,72.67
+13,Fitri Saputra,Laki-laki,62,S2,33,12,SMK Swasta Cahaya Ilmu Jakarta,Swasta,Jakarta,606,Laissez-faire,96.43,76.21
+14,Indah Susanto,Laki-laki,62,S2,39,8,SMAN 3 Surabaya,Negeri,Surabaya,1326,Transformasional,94.23,66.93
+15,Wati Saputra,Laki-laki,58,S2,29,8,SMK Swasta Budi Mulia Bangsa Bandung,Swasta,Bandung,523,Transaksional,95.74,66.38
+16,Siti Hakim,Laki-laki,41,S2,18,11,SMAN 7 Bandung,Negeri,Bandung,849,Transaksional,93.12,72.19
+17,Rina Hidayat,Perempuan,47,S3,18,3,SMAN 18 Jakarta,Negeri,Jakarta,815,Transformasional,99.41,73.94
+18,Indah Pratama,Perempuan,55,S2,33,13,SMAN 1 Yogyakarta,Negeri,Yogyakarta,699,Transaksional,99.41,77.57
+19,Bayu Hidayat,Perempuan,62,S3,30,18,SMK Swasta Cahaya Karya Bandung,Swasta,Bandung,464,Laissez-faire,97.89,72.96
+20,Siti Putri,Perempuan,41,S1,11,16,SMAN 17 Jakarta,Negeri,Jakarta,882,Transformasional,92.55,69.44
+21,Budi Hakim,Laki-laki,52,S1,21,8,SMAN 3 Medan,Negeri,Medan,729,Laissez-faire,96.67,82.33
+22,Rizki Hidayat,Laki-laki,61,S2,35,8,SMK Swasta Nusantara Karya Bandung,Swasta,Bandung,533,Transformasional,92.07,75.37
+23,Dewi Wulandari,Laki-laki,56,S2,33,12,SMAN 10 Surabaya,Negeri,Surabaya,961,Transaksional,98.67,75.34
+24,Maya Siregar,Laki-laki,61,S3,29,10,SMAN 9 Bandung,Negeri,Bandung,418,Transformasional,97.94,71.88
+25,Agus Hidayat,Perempuan,59,S2,34,11,SMK Swasta Harapan Karya Medan,Swasta,Medan,220,Transaksional,98.63,72.28
+26,Siti Susanto,Perempuan,44,S2,20,9,SMK Swasta Nusantara Jaya Medan,Swasta,Medan,526,Transformasional,99.56,77.05
+27,Agus Nugroho,Laki-laki,51,S2,23,5,SMAN 10 Jakarta,Negeri,Jakarta,1173,Transformasional,99.19,70.75
+28,Eko Hakim,Laki-laki,61,S1,33,18,SMAN 6 Bandung,Negeri,Bandung,481,Transaksional,92.2,76.88
+29,Rizki Laksono,Perempuan,61,S3,35,8,SMAN 13 Jakarta,Negeri,Jakarta,839,Transaksional,93.78,74.5
+30,Bayu Permata,Perempuan,47,S2,19,7,SMK Swasta Budi Mulia Karya Surabaya,Swasta,Surabaya,918,Transaksional,97.44,73.54
+31,Rizki Susanto,Laki-laki,48,S1,26,9,SMAN 14 Medan,Negeri,Medan,653,Laissez-faire,98.29,71.99
+32,Fitri Siregar,Laki-laki,52,S3,26,7,SMAN 1 Yogyakarta,Negeri,Yogyakarta,832,Laissez-faire,97.49,87.76
+33,Eko Permata,Perempuan,42,S3,11,11,SMK Swasta Nusantara Karya Jakarta,Swasta,Jakarta,913,Transaksional,94.61,77.43
+34,Maya Nugroho,Laki-laki,46,S2,14,13,SMAN 19 Medan,Negeri,Medan,608,Transaksional,96.38,69.71
+35,Ahmad Hidayat,Perempuan,46,S2,17,11,SMK Swasta Nusantara Ilmu Yogyakarta,Swasta,Yogyakarta,610,Laissez-faire,93.36,80.11
+36,Budi Hidayat,Perempuan,42,S3,10,8,SMK Swasta Cahaya Ilmu Bandung,Swasta,Bandung,199,Transaksional,96.89,71.4
+37,Budi Kusuma,Perempuan,60,S2,31,13,SMK Swasta Cahaya Bangsa Bandung,Swasta,Bandung,340,Transformasional,93.41,77.54
+38,Bayu Susanto,Laki-laki,43,S2,11,15,SMK Swasta Global Pertiwi Yogyakarta,Swasta,Yogyakarta,624,Laissez-faire,95.57,66.2
+39,Rina Putri,Perempuan,54,S2,22,8,SMK Swasta Harapan Ilmu Medan,Swasta,Medan,425,Laissez-faire,94.29,68.36
+40,Fajar Permata,Perempuan,57,S1,32,5,SMK Swasta Nusantara Ilmu Bandung,Swasta,Bandung,264,Transaksional,96.34,75.98
+41,Fitri Susanto,Laki-laki,53,S2,22,1,SMK Swasta Budi Mulia Karya Yogyakarta,Swasta,Yogyakarta,499,Transaksional,96.31,79.69
+42,Indah Kusuma,Laki-laki,48,S2,20,1,SMK Swasta Nusantara Ilmu Yogyakarta,Swasta,Yogyakarta,681,Laissez-faire,96.27,76.86
+43,Hendra Siregar,Laki-laki,42,S2,13,5,SMAN 9 Jakarta,Negeri,Jakarta,1188,Transaksional,93.69,74.42
+44,Rizki Permata,Perempuan,48,S2,22,14,SMAN 1 Yogyakarta,Negeri,Yogyakarta,852,Transformasional,100.0,75.99
+45,Sari Saputra,Laki-laki,60,S1,35,1,SMAN 20 Jakarta,Negeri,Jakarta,956,Transformasional,93.01,69.11
+46,Dewi Siregar,Laki-laki,54,S2,30,12,SMAN 10 Bandung,Negeri,Bandung,410,Laissez-faire,92.21,71.4
+47,Maya Siregar,Perempuan,52,S3,29,7,SMAN 10 Jakarta,Negeri,Jakarta,1500,Laissez-faire,98.44,75.2
+48,Siti Permata,Perempuan,61,S2,29,17,SMK Swasta Harapan Jaya Jakarta,Swasta,Jakarta,662,Transaksional,97.08,80.29
+49,Bayu Putri,Laki-laki,53,S1,21,17,SMK Swasta Global Jaya Medan,Swasta,Medan,567,Laissez-faire,96.74,76.72
+50,Rizki Rahayu,Laki-laki,42,S2,17,15,SMK Swasta Global Jaya Medan,Swasta,Medan,391,Transaksional,93.45,66.18
+51,Eko Permata,Perempuan,50,S2,20,9,SMAN 7 Medan,Negeri,Medan,387,Transformasional,97.76,78.12
+52,Wati Nugroho,Laki-laki,62,S2,33,16,SMAN 10 Jakarta,Negeri,Jakarta,1026,Transaksional,97.53,73.07
+53,Maya Hakim,Perempuan,55,S2,27,12,SMK Swasta Nusantara Jaya Surabaya,Swasta,Surabaya,745,Transformasional,92.97,73.12
+54,Eko Permata,Laki-laki,57,S3,32,6,SMAN 9 Yogyakarta,Negeri,Yogyakarta,837,Laissez-faire,94.26,81.56
+55,Dewi Rahayu,Laki-laki,49,S2,23,6,SMAN 5 Medan,Negeri,Medan,580,Transformasional,99.79,81.65
+56,Maya Putri,Laki-laki,60,S3,37,16,SMAN 10 Medan,Negeri,Medan,780,Transaksional,95.52,82.16
+57,Rina Susanto,Perempuan,55,S1,27,3,SMK Swasta Global Bangsa Jakarta,Swasta,Jakarta,615,Laissez-faire,99.59,70.8
+58,Budi Saputra,Laki-laki,57,S2,27,8,SMK Swasta Harapan Karya Yogyakarta,Swasta,Yogyakarta,511,Laissez-faire,92.48,74.45
+59,Dewi Laksono,Laki-laki,60,S2,36,3,SMAN 18 Bandung,Negeri,Bandung,376,Transformasional,92.02,78.16
+60,Bayu Putri,Perempuan,49,S1,23,10,SMK Swasta Nusantara Ilmu Jakarta,Swasta,Jakarta,894,Laissez-faire,96.72,79.88
+61,Eko Pangestu,Laki-laki,57,S2,31,5,SMAN 2 Jakarta,Negeri,Jakarta,969,Transaksional,96.76,72.6
+62,Maya Kusuma,Laki-laki,54,S2,28,13,SMK Swasta Budi Mulia Pertiwi Yogyakarta,Swasta,Yogyakarta,294,Laissez-faire,94.58,75.07
+63,Fajar Susanto,Laki-laki,47,S3,15,1,SMK Swasta Budi Mulia Ilmu Medan,Swasta,Medan,590,Transaksional,99.33,71.97
+64,Rina Siregar,Perempuan,60,S3,31,3,SMK Swasta Mandiri Karya Yogyakarta,Swasta,Yogyakarta,348,Transaksional,95.29,72.52
+65,Wati Hidayat,Perempuan,57,S1,30,3,SMK Swasta Budi Mulia Jaya Surabaya,Swasta,Surabaya,1123,Transformasional,97.26,80.56
+66,Bayu Pangestu,Laki-laki,46,S2,14,16,SMK Swasta Cahaya Karya Jakarta,Swasta,Jakarta,870,Transaksional,95.5,81.78
+67,Wati Wulandari,Laki-laki,60,S2,36,8,SMK Swasta Budi Mulia Pertiwi Medan,Swasta,Medan,450,Transformasional,95.69,76.14
+68,Dewi Hakim,Laki-laki,55,S3,25,10,SMK Swasta Harapan Jaya Yogyakarta,Swasta,Yogyakarta,404,Transformasional,95.07,85.02
+69,Agus Rahayu,Laki-laki,48,S2,21,14,SMK Swasta Mandiri Karya Jakarta,Swasta,Jakarta,1084,Laissez-faire,95.92,76.81
+70,Agus Kusuma,Perempuan,51,S2,23,18,SMK Swasta Cahaya Ilmu Surabaya,Swasta,Surabaya,990,Transaksional,92.35,71.77
+71,Wati Putri,Perempuan,52,S3,23,5,SMAN 17 Bandung,Negeri,Bandung,639,Transformasional,98.99,80.81
+72,Bayu Wulandari,Perempuan,40,S2,8,14,SMAN 16 Jakarta,Negeri,Jakarta,1071,Transaksional,96.99,82.69
+73,Hendra Hakim,Laki-laki,50,S3,22,18,SMK Swasta Global Bangsa Yogyakarta,Swasta,Yogyakarta,248,Laissez-faire,99.37,78.32
+74,Indah Putri,Laki-laki,53,S3,24,4,SMAN 1 Surabaya,Negeri,Surabaya,847,Transaksional,98.37,85.32
+75,Maya Permata,Perempuan,53,S1,25,17,SMAN 6 Bandung,Negeri,Bandung,380,Laissez-faire,98.97,61.9
+76,Indah Kusuma,Laki-laki,47,S2,18,9,SMK Swasta Harapan Karya Jakarta,Swasta,Jakarta,1140,Transformasional,95.53,80.61
+77,Sari Siregar,Perempuan,60,S3,31,9,SMK Swasta Harapan Jaya Bandung,Swasta,Bandung,274,Laissez-faire,94.87,77.94
+78,Maya Putri,Perempuan,40,S3,14,13,SMAN 2 Medan,Negeri,Medan,808,Transaksional,98.21,76.0
+79,Indah Siregar,Perempuan,47,S2,15,9,SMAN 2 Jakarta,Negeri,Jakarta,1116,Transaksional,92.27,75.46
+80,Sari Putri,Laki-laki,42,S3,14,11,SMAN 5 Bandung,Negeri,Bandung,852,Transaksional,96.25,67.56
+81,Fajar Rahayu,Laki-laki,48,S3,22,16,SMK Swasta Harapan Bangsa Jakarta,Swasta,Jakarta,779,Transformasional,98.88,77.9
+82,Hendra Rahayu,Perempuan,42,S2,16,1,SMAN 12 Yogyakarta,Negeri,Yogyakarta,568,Laissez-faire,95.05,77.79
+83,Sari Wulandari,Laki-laki,55,S1,28,18,SMAN 15 Jakarta,Negeri,Jakarta,1109,Laissez-faire,95.27,82.39
+84,Agus Susanto,Laki-laki,49,S3,26,4,SMAN 5 Medan,Negeri,Medan,697,Transaksional,94.97,74.91
+85,Fitri Siregar,Laki-laki,53,S2,22,16,SMK Swasta Budi Mulia Karya Surabaya,Swasta,Surabaya,749,Transformasional,98.84,72.46
+86,Dewi Hakim,Perempuan,57,S3,35,12,SMK Swasta Cahaya Bangsa Surabaya,Swasta,Surabaya,793,Transformasional,97.13,76.49
+87,Ahmad Susanto,Perempuan,47,S3,24,7,SMAN 7 Medan,Negeri,Medan,538,Transaksional,98.19,82.08
+88,Ahmad Hidayat,Laki-laki,44,S2,21,6,SMAN 1 Bandung,Negeri,Bandung,666,Transformasional,96.71,78.14
+89,Ahmad Pratama,Perempuan,41,S1,11,14,SMAN 16 Jakarta,Negeri,Jakarta,1259,Transaksional,96.11,72.35
+90,Dewi Kusuma,Laki-laki,59,S1,33,17,SMK Swasta Budi Mulia Jaya Jakarta,Swasta,Jakarta,881,Transformasional,95.92,79.07
+91,Bayu Wulandari,Laki-laki,50,S2,26,3,SMK Swasta Nusantara Pertiwi Medan,Swasta,Medan,700,Transaksional,99.96,75.49
+92,Maya Kusuma,Perempuan,43,S2,11,4,SMAN 15 Yogyakarta,Negeri,Yogyakarta,533,Transaksional,94.71,80.84
+93,Bayu Pangestu,Perempuan,43,S2,11,11,SMK Swasta Cahaya Jaya Surabaya,Swasta,Surabaya,544,Transformasional,92.75,72.99
+94,Dewi Putri,Perempuan,44,S2,14,18,SMK Swasta Harapan Karya Jakarta,Swasta,Jakarta,1306,Transaksional,98.94,73.36
+95,Siti Hidayat,Perempuan,51,S1,26,17,SMAN 8 Yogyakarta,Negeri,Yogyakarta,410,Transaksional,98.76,74.04
+96,Sari Wulandari,Perempuan,58,S2,28,14,SMAN 9 Medan,Negeri,Medan,329,Transformasional,94.19,69.18
+97,Maya Permata,Perempuan,40,S1,9,5,SMK Swasta Cahaya Bangsa Jakarta,Swasta,Jakarta,735,Transformasional,95.01,77.98
+98,Bayu Permata,Laki-laki,51,S2,20,11,SMAN 5 Jakarta,Negeri,Jakarta,961,Laissez-faire,92.4,76.31
+99,Budi Hidayat,Perempuan,61,S2,33,15,SMK Swasta Global Bangsa Bandung,Swasta,Bandung,476,Transaksional,97.43,75.03
+100,Wati Nugroho,Perempuan,41,S2,19,2,SMAN 7 Surabaya,Negeri,Surabaya,940,Transaksional,94.32,73.83
