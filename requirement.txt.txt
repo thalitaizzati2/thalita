@@ -3,5 +3,6 @@ pandas==2.3.3
 streamlit
 scikit-learn==1.5.2
 matplotlib
-stastmodels
+statsmodels
+plotly
 pip==24.2
